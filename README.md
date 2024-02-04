@@ -1,0 +1,2 @@
+# Smart-Irrigation
+The Smart-Irrigation repository offers a solution for efficient water management in agriculture. Explore Python scripts and Arduino code designed to automate irrigation systems based on real-time weather data and soil moisture levels. Implement smart irrigation strategies to optimize water usage, improve crop yield, and conserve resources. Let's make agriculture smarter and more sustainable together!
