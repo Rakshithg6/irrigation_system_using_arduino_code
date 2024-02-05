@@ -1,7 +1,5 @@
 # Smart-Irrigation
 
-# Smart Irrigation System using Arduino README
-
 ## Overview
 This repository contains code and resources for implementing a Smart Irrigation System using Arduino IDE software. The Smart Irrigation System leverages Arduino microcontrollers, sensors, and actuators to monitor soil moisture levels and automate irrigation processes. This README provides an overview of the project, its components, and instructions for setup and usage.
 
