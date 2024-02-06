@@ -35,4 +35,4 @@ To utilize the Smart Irrigation System implemented with Arduino, follow these st
 Explore the examples directory for sample Arduino sketches demonstrating how to implement a Smart Irrigation System using different configurations and sensor setups.
 
 ## Contributors
-- Rakshith G (https://github.com/Rakshithg6)
+- Rakshith G [Github](https://github.com/Rakshithg6)
